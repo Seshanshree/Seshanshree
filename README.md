@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 It's me Seshan
+
+<!-- Header with Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Seshanshree+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Data+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+</p>
+
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - I’m currently learning and Teaching DSA and Integrating AI to my workflow
