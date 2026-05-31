@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Hi I'm Seshan
 <!-- Header with Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Seshanshree+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Data+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+<p align="start">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Seshanshree;Full-Stack+Developer;AI+%26+Data+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 
